@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twolayerproject", "Twolayerproject\Twolayerproject.csproj", "{706E5980-4881-4DFD-9CEE-CCB56B0349BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{706E5980-4881-4DFD-9CEE-CCB56B0349BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706E5980-4881-4DFD-9CEE-CCB56B0349BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706E5980-4881-4DFD-9CEE-CCB56B0349BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706E5980-4881-4DFD-9CEE-CCB56B0349BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A28819EC-6E68-4A9B-A936-9558A517C4F3}
+	EndGlobalSection
+EndGlobal
